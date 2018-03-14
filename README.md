@@ -1,7 +1,7 @@
 # Script Installation
 # OpenVPN, Pritunl, Proxy, SHH Dropbear, Web Panel
 
-- wget https://raw.githubusercontent.com/nwqionm/OPENEXTRA/master/Install
+- wget https://raw.githubusercontent.com/sakditad2542/SCIPAUTO/master/Install
 - chmod +x Install
 - bash Install
 
